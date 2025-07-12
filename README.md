@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Serhat Barış Aydın,<br><br>a tech enthusiast passionate about Front-End Development, Web Technologies, and the magic behind Business Analysis 🧠💻. I design, I code, and I constantly ask, “How do these systems really work?” Currently, I’m diving deeper into how software development processes unfold while building strong foundations in the world of web development 🌐🚀. And in my free time? I enjoy good company 👥, explore new places 🌍, write code with a cup of coffee ☕👨‍💻, and recharge through sports 🏋️‍♂️. After all, a good developer doesn’t just integrate code they integrate with life too! 😉</p>
+<p align="left" size="40">I'm Serhat Barış Aydın,<br><br>a tech enthusiast passionate about Front-End Development, Web Technologies, and the magic behind Business Analysis 🧠💻. I design, I code, and I constantly ask, “How do these systems really work?” Currently, I’m diving deeper into how software development processes unfold while building strong foundations in the world of web development 🌐🚀. And in my free time? I enjoy good company 👥, explore new places 🌍, write code with a cup of coffee ☕👨‍💻, and recharge through sports 🏋️‍♂️. After all, a good developer doesn’t just integrate code they integrate with life too! 😉</p>
 
 ###
 
