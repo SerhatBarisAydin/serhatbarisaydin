@@ -11,7 +11,7 @@
   <a href="https://medium.com/@serhatbarisaydin" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="25" alt="medium logo"  />
   </a>
-  <a href="serhatbarisaydin@gmail.com" target="_blank">
+  <a href="https://serhatbarisaydin@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/sbarisaydin" target="_blank">
