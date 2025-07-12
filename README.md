@@ -93,4 +93,10 @@
   <img src="https://streak-stats.demolab.com?user=serhatbarisaydin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/serhatbarisaydin/serhatbarisaydin/output/snake.svg" alt="Snake animation" />
+</div>
+
+
+
 ###
