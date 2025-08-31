@@ -64,8 +64,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="60" alt="npm logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vuejs logo"  />
