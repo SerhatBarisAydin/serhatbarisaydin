@@ -138,7 +138,7 @@ When I’m not coding, you’ll find me exploring new places 🌍, enjoying good
 ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Firebase](https://skillicons.dev/icons?i=firebase) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)  
 
 **Other / Tools:**  
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) ![Postman](https://skillicons.dev/icons?i=postman) ![C#](https://skillicons.dev/icons?i=csharp) ![.NET](https://skillicons.dev/icons?i=dotnet) ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python)
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) ![Postman](https://skillicons.dev/icons?i=postman) ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python)
 
 ---
 
