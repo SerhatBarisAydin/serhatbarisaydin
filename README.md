@@ -180,8 +180,8 @@ When I’m not coding, you’ll find me exploring new places 🌍, enjoying good
 
 ## 📫 Connect with Me
 - Email: [serhatbarisaydin@gmail.com](mailto:serhatbarisaydin@gmail.com)  
-- LinkedIn: [in/serhatbarisaydin](https://www.linkedin.com/in/js-lover)  
-- LeetCode: [serhatbarisaydin](https://leetcode.com/u/js-lover/)  
+- LinkedIn: [js-lover](https://www.linkedin.com/in/js-lover)  
+- LeetCode: [js-lover](https://leetcode.com/u/js-lover/)  
 - Portfolio: [serhatbarisaydin.github.io](https://js-lover.github.io/portfolio-Website/)
 
 
