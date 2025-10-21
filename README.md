@@ -129,7 +129,6 @@ When I’m not coding, you’ll find me exploring new places 🌍, enjoying good
 ---
 
 ## 🛠 Tech Stack
-🛠 Tech Stack
 
 **Frontend:**  
 ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![Vue](https://skillicons.dev/icons?i=vue) ![React Native](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Vite](https://skillicons.dev/icons?i=vite)  
@@ -160,7 +159,7 @@ When I’m not coding, you’ll find me exploring new places 🌍, enjoying good
 
 ## 📌 Featured Projects
 | Project | Description | Tech |
-|--------|-------------|------|
+|-----------|----------------|---------|
 | [react-chat-app](https://github.com/js-lover/react-chat-app) | Real-time chat application | React, Firebase, Tailwind |
 | [portfolio-Website](https://github.com/js-lover/portfolio-Website) | Personal portfolio site | TypeScript, Vite, Tailwind |
 | [rn-starter](https://github.com/js-lover/rn-starter) | React Native starter project | JavaScript, React Native |
