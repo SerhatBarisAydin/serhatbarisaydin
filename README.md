@@ -129,23 +129,16 @@ When I’m not coding, you’ll find me exploring new places 🌍, enjoying good
 ---
 
 ## 🛠 Tech Stack
-![TypeScript](https://skillicons.dev/icons?i=ts) 
-![React](https://skillicons.dev/icons?i=react) 
-![Node.js](https://skillicons.dev/icons?i=nodejs) 
-![Express](https://skillicons.dev/icons?i=express) 
-![MongoDB](https://skillicons.dev/icons?i=mongodb) 
-![Tailwind](https://skillicons.dev/icons?i=tailwind) 
-![Firebase](https://skillicons.dev/icons?i=firebase) 
-![Vite](https://skillicons.dev/icons?i=vite) 
-![Vue.js](https://skillicons.dev/icons?i=vue) 
-![Java](https://skillicons.dev/icons?i=java) 
-![Python](https://skillicons.dev/icons?i=python) 
-![C#](https://skillicons.dev/icons?i=csharp) 
-![.NET](https://skillicons.dev/icons?i=dotnet) 
-![MySQL](https://skillicons.dev/icons?i=mysql) 
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql) 
-![Git](https://skillicons.dev/icons?i=git) 
-![GitHub](https://skillicons.dev/icons?i=github)
+🛠 Tech Stack
+
+**Frontend:**  
+![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![Vue](https://skillicons.dev/icons?i=vue) ![React Native](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Vite](https://skillicons.dev/icons?i=vite)  
+
+**Backend:**  
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Firebase](https://skillicons.dev/icons?i=firebase) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)  
+
+**Other / Tools:**  
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) ![Postman](https://skillicons.dev/icons?i=postman) ![C#](https://skillicons.dev/icons?i=csharp) ![.NET](https://skillicons.dev/icons?i=dotnet) ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python)
 
 ---
 
