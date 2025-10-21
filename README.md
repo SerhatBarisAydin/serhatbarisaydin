@@ -170,9 +170,8 @@ When I’m not coding, you’ll find me exploring new places 🌍, enjoying good
 
 ## 📊 GitHub Stats
 <div align="center">
-![Baris's GitHub stats](https://streak-stats.demolab.com?user=js-lover&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)
+  <img src="https://streak-stats.demolab.com?user=js-lover&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="full" alt="streak graph"  />
 </div>
-
 
 ---
 
