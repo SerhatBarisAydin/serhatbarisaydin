@@ -174,7 +174,10 @@ When I’m not coding, you’ll find me exploring new places 🌍, enjoying good
 ---
 
 ## 📘 Latest Blog Posts
-- [Medium: My Recent Web Development Learnings](https://medium.com/@serhatbarisaydin)  
+
+Stay updated with my latest thoughts and tutorials on web development:
+
+- 📝 [My Recent Web Development Learnings on Medium](https://medium.com/@serhatbarisaydin)
 
 ---
 
