@@ -113,11 +113,9 @@
 -->
 
 # 👋 Hi, I'm Baris Aydin
-
 **Frontend Developer | Web Enthusiast | Problem Solver**
 
 ---
-
 ## 🌟 About Me
 I'm a tech enthusiast passionate about **Front-End Development, Web Technologies, and Business Analysis**.  
 I design, I code, and I always ask: *"How do these systems really work?"*  
