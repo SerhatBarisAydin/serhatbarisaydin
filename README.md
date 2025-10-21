@@ -178,11 +178,15 @@ When I’m not coding, you’ll find me exploring new places 🌍, enjoying good
 
 ---
 
-## 📫 Connect with Me
-- Email: [serhatbarisaydin@gmail.com](mailto:serhatbarisaydin@gmail.com)  
-- LinkedIn: [js-lover](https://www.linkedin.com/in/js-lover)  
-- LeetCode: [js-lover](https://leetcode.com/u/js-lover/)  
-- Portfolio: [serhatbarisaydin.github.io](https://js-lover.github.io/portfolio-Website/)
+## 📫 Let's Connect
+
+I'm always open to new opportunities, collaborations, and learning. Feel free to reach out to me through any of the channels below:
+
+- 📧 **Email**: [serhatbarisaydin@gmail.com](mailto:serhatbarisaydin@gmail.com)  
+- 🔗 **LinkedIn**: [Barış Aydın](https://www.linkedin.com/in/js-lover)  
+- 💻 **LeetCode**: [js-lover](https://leetcode.com/u/js-lover/)  
+- 🌐 **Portfolio**: [serhatbarisaydin.github.io](https://js-lover.github.io/portfolio-Website/)  
+
 
 
 
