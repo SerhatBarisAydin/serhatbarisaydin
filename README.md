@@ -119,7 +119,7 @@
 
 
 # 👋 Hi, I'm Baris Aydin
-**Frontend Developer | Web Enthusiast | Problem Solver**
+**Software Engineer | Open Source Contributor | Innovating Web Experiences**
 
 ---
 ## 🌟 About Me
