@@ -5,7 +5,7 @@
 
 
 # 👋 Hi, I'm Baris Aydin
-## 🌟 About Me
+# 🌟 About Me
 I'm a tech enthusiast passionate about **Front-End Development, Web Technologies, and Business Analysis**.  
 I design, I code, and I always ask: *"How do these systems really work?"*  
 
@@ -15,7 +15,7 @@ When I’m not coding, you’ll find me exploring new places 🌍, enjoying good
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 **Frontend:**  
 ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![Vue](https://skillicons.dev/icons?i=vue) ![React Native](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Vite](https://skillicons.dev/icons?i=vite)  
@@ -28,7 +28,7 @@ When I’m not coding, you’ll find me exploring new places 🌍, enjoying good
 
 ---
 
-## 🚀 Currently Learning
+# 🚀 Currently Learning
 - Advanced **React patterns** & **State Management**
 - **TypeScript best practices**
 - **Performance optimization** in modern web apps
@@ -36,7 +36,7 @@ When I’m not coding, you’ll find me exploring new places 🌍, enjoying good
 
 ---
 
-## 💡 Goals
+# 💡 Goals
 - Contribute to **open-source projects**
 - Build a **portfolio of real-world apps**
 - Strengthen knowledge in **full-stack architecture**
@@ -44,7 +44,7 @@ When I’m not coding, you’ll find me exploring new places 🌍, enjoying good
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 | Project | Description | Tech |
 |-----------|----------------|---------|
 | [react-chat-app](https://github.com/js-lover/react-chat-app) | Real-time chat application | React, Firebase, Tailwind |
@@ -55,14 +55,14 @@ When I’m not coding, you’ll find me exploring new places 🌍, enjoying good
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=js-lover&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="full" alt="streak graph"  />
 </div>
 
 ---
 
-## 📘 Latest Blog Posts
+# 📘 Latest Blog Posts
 
 Stay updated with my latest thoughts and tutorials on web development:
 
@@ -70,7 +70,7 @@ Stay updated with my latest thoughts and tutorials on web development:
 
 ---
 
-## 📫 Let's Connect
+# 📫 Let's Connect
 
 I'm always open to new opportunities, collaborations, and learning. Feel free to reach out to me through any of the channels below:
 
