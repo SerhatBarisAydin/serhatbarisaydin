@@ -1,3 +1,4 @@
+<!--
 <div align="center">
   <img width="full" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
 </div>
@@ -108,3 +109,90 @@
 
 
 ###
+
+-->
+
+# 👋 Hi, I'm Baris Aydin
+
+**Frontend Developer | Web Enthusiast | Problem Solver**
+
+---
+
+## 🌟 About Me
+I'm a tech enthusiast passionate about **Front-End Development, Web Technologies, and Business Analysis**.  
+I design, I code, and I always ask: *"How do these systems really work?"*  
+
+Currently, I’m deepening my skills in **modern web development** while building strong foundations in software development processes.  
+
+When I’m not coding, you’ll find me exploring new places 🌍, enjoying good company 👥, or recharging with sports 🏋️‍♂️ — after all, a good developer integrates with life too! 😉
+
+---
+
+## 🛠 Tech Stack
+![TypeScript](https://skillicons.dev/icons?i=ts) 
+![React](https://skillicons.dev/icons?i=react) 
+![Node.js](https://skillicons.dev/icons?i=nodejs) 
+![Express](https://skillicons.dev/icons?i=express) 
+![MongoDB](https://skillicons.dev/icons?i=mongodb) 
+![Tailwind](https://skillicons.dev/icons?i=tailwind) 
+![Firebase](https://skillicons.dev/icons?i=firebase) 
+![Vite](https://skillicons.dev/icons?i=vite) 
+![Vue.js](https://skillicons.dev/icons?i=vue) 
+![Java](https://skillicons.dev/icons?i=java) 
+![Python](https://skillicons.dev/icons?i=python) 
+![C#](https://skillicons.dev/icons?i=csharp) 
+![.NET](https://skillicons.dev/icons?i=dotnet) 
+![MySQL](https://skillicons.dev/icons?i=mysql) 
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql) 
+![Git](https://skillicons.dev/icons?i=git) 
+![GitHub](https://skillicons.dev/icons?i=github)
+
+---
+
+## 🚀 Currently Learning
+- Advanced **React patterns** & **State Management**
+- **TypeScript best practices**
+- **Performance optimization** in modern web apps
+- **Cross-platform mobile development** (React Native)
+
+---
+
+## 💡 Goals
+- Contribute to **open-source projects**
+- Build a **portfolio of real-world apps**
+- Strengthen knowledge in **full-stack architecture**
+- Improve **collaboration skills** in agile teams
+
+---
+
+## 📌 Featured Projects
+| Project | Description | Tech |
+|--------|-------------|------|
+| [react-chat-app](https://github.com/js-lover/react-chat-app) | Real-time chat application | React, Firebase, Tailwind |
+| [portfolio-Website](https://github.com/js-lover/portfolio-Website) | Personal portfolio site | TypeScript, Vite, Tailwind |
+| [rn-starter](https://github.com/js-lover/rn-starter) | React Native starter project | JavaScript, React Native |
+| [leetcode-solutions](https://github.com/js-lover/leetcode-solutions) | Algorithm & data structure solutions | TypeScript |
+
+---
+
+## 📊 GitHub Stats
+![Baris's GitHub stats](https://streak-stats.demolab.com?user=js-lover&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)
+
+- Contributions: **95% commits, 4% pull requests, 1% issues**
+- Active contributor with **consistent commits** and PRs across multiple repositories
+
+---
+
+## 📘 Latest Blog Posts
+- [Medium: My Recent Web Development Learnings](https://medium.com/@serhatbarisaydin)  
+
+---
+
+## 📫 Connect with Me
+- Email: [serhatbarisaydin@gmail.com](mailto:serhatbarisaydin@gmail.com)  
+- LinkedIn: [in/serhatbarisaydin](https://www.linkedin.com/in/serhatbarisaydin)  
+- LeetCode: [serhatbarisaydin](https://leetcode.com/u/serhatbarisaydin/)  
+- Portfolio: [serhatbarisaydin.github.io](https://serhatbarisaydin.github.io/portfolio-Website/)
+
+
+
