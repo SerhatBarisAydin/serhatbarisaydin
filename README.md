@@ -161,7 +161,7 @@ When I’m not coding, you’ll find me exploring new places 🌍, enjoying good
 | Project | Description | Tech |
 |-----------|----------------|---------|
 | [react-chat-app](https://github.com/js-lover/react-chat-app) | Real-time chat application | React, Firebase, Tailwind |
-| [air-companion-app]([https://github.com/js-lover/leetcode-solutions](https://github.com/js-lover/rn-starter/tree/File-Architecture)) | Airport companion app for flight tracking, check-ins, and navigation | React Native, JavaScript, Firebase |
+| [air-companion-app](https://github.com/js-lover/rn-starter/tree/File-Architecture) | Airport companion app for flight tracking, check-ins, and navigation | React Native, JavaScript, Firebase |
 | [portfolio-Website](https://github.com/js-lover/portfolio-Website) | Personal portfolio site | TypeScript, Vite, Tailwind |
 | [leetcode-solutions](https://github.com/js-lover/leetcode-solutions) | Algorithm & data structure solutions | TypeScript |
 
@@ -171,8 +171,7 @@ When I’m not coding, you’ll find me exploring new places 🌍, enjoying good
 ## 📊 GitHub Stats
 ![Baris's GitHub stats](https://streak-stats.demolab.com?user=js-lover&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)
 
-- Contributions: **95% commits, 4% pull requests, 1% issues**
-- Active contributor with **consistent commits** and PRs across multiple repositories
+
 
 ---
 
@@ -183,9 +182,9 @@ When I’m not coding, you’ll find me exploring new places 🌍, enjoying good
 
 ## 📫 Connect with Me
 - Email: [serhatbarisaydin@gmail.com](mailto:serhatbarisaydin@gmail.com)  
-- LinkedIn: [in/serhatbarisaydin](https://www.linkedin.com/in/serhatbarisaydin)  
-- LeetCode: [serhatbarisaydin](https://leetcode.com/u/serhatbarisaydin/)  
-- Portfolio: [serhatbarisaydin.github.io](https://serhatbarisaydin.github.io/portfolio-Website/)
+- LinkedIn: [in/serhatbarisaydin](https://www.linkedin.com/in/js-lover)  
+- LeetCode: [serhatbarisaydin](https://leetcode.com/u/js-lover/)  
+- Portfolio: [serhatbarisaydin.github.io](https://js-lover.github.io/portfolio-Website/)
 
 
 
