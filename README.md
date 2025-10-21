@@ -161,9 +161,10 @@ When I’m not coding, you’ll find me exploring new places 🌍, enjoying good
 | Project | Description | Tech |
 |-----------|----------------|---------|
 | [react-chat-app](https://github.com/js-lover/react-chat-app) | Real-time chat application | React, Firebase, Tailwind |
+| [air-companion-app]([https://github.com/js-lover/leetcode-solutions](https://github.com/js-lover/rn-starter/tree/File-Architecture)) | Airport companion app for flight tracking, check-ins, and navigation | React Native, JavaScript, Firebase |
 | [portfolio-Website](https://github.com/js-lover/portfolio-Website) | Personal portfolio site | TypeScript, Vite, Tailwind |
-| [rn-starter](https://github.com/js-lover/rn-starter) | React Native starter project | JavaScript, React Native |
 | [leetcode-solutions](https://github.com/js-lover/leetcode-solutions) | Algorithm & data structure solutions | TypeScript |
+
 
 ---
 
