@@ -18,7 +18,7 @@ When I’m not coding, you’ll find me exploring new places 🌍, enjoying good
 # 🛠 Tech Stack
 
 **Frontend:**  
-![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![Vue](https://skillicons.dev/icons?i=vue) ![React Native](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Vite](https://skillicons.dev/icons?i=vite)  
+![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts)  ![Vue](https://skillicons.dev/icons?i=vue) ![React Native](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Vite](https://skillicons.dev/icons?i=vite)  
 
 **Backend:**  
 ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Firebase](https://skillicons.dev/icons?i=firebase) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)  
