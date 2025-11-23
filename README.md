@@ -15,7 +15,7 @@ When I’m not coding, you’ll find me exploring new places 🌍, enjoying good
 
 ---
 
-<div align="center">
+<div >
 
 
   
