@@ -15,6 +15,11 @@ When I’m not coding, you’ll find me exploring new places 🌍, enjoying good
 
 ---
 
+<div align="center">
+
+
+  
+
 # 🛠 Tech Stack
 
 **Frontend:**  
@@ -25,7 +30,7 @@ When I’m not coding, you’ll find me exploring new places 🌍, enjoying good
 
 **Other / Tools:**  
 ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) ![Postman](https://skillicons.dev/icons?i=postman) ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python)
-
+</div>
 ---
 
 
