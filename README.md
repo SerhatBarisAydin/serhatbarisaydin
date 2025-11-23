@@ -28,32 +28,6 @@ When I’m not coding, you’ll find me exploring new places 🌍, enjoying good
 
 ---
 
-# 🚀 Currently Learning
-- Advanced **React patterns** & **State Management**
-- **TypeScript best practices**
-- **Performance optimization** in modern web apps
-- **Cross-platform mobile development** (React Native)
-
----
-
-# 💡 Goals
-- Contribute to **open-source projects**
-- Build a **portfolio of real-world apps**
-- Strengthen knowledge in **full-stack architecture**
-- Improve **collaboration skills** in agile teams
-
----
-
-# 📌 Featured Projects
-| Project | Description | Tech |
-|-----------|----------------|---------|
-| [react-chat-app](https://github.com/js-lover/react-chat-app) | Real-time chat application | React, Firebase, Tailwind |
-| [air-companion-app](https://github.com/js-lover/rn-starter/tree/File-Architecture) | Airport companion app for flight tracking, check-ins, and navigation | React Native, JavaScript, Firebase |
-| [portfolio-Website](https://github.com/js-lover/portfolio-Website) | Personal portfolio site | TypeScript, Vite, Tailwind |
-| [leetcode-solutions](https://github.com/js-lover/leetcode-solutions) | Algorithm & data structure solutions | TypeScript |
-
-
----
 
 # 📊 GitHub Stats
 <div align="center">
