@@ -4,8 +4,7 @@
 
 # 👋 Hi, I'm Baris Aydin
 # 🌟 About Me
-I'm a tech enthusiast passionate about **Front-End Development, Web Technologies, and Business Analysis**.  
-I design, I code, and I always ask: *"How do these systems really work?"*  
+I’m a tech enthusiast with a passion for Front-End Development and Web Technologies.  I design, code, and constantly ask myself, *“How do these systems really work?”*
 
 Currently, I’m deepening my skills in **modern web development** while building strong foundations in software development processes.  
 
