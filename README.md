@@ -1,60 +1,24 @@
+# Barış Aydın
 
+Front-End Developer with a focus on modern web technologies and user interface development. I build responsive, performant applications while continuously exploring how systems work under the hood.
 
+Currently specializing in modern JavaScript frameworks and mobile development, with strong foundations in full-stack development processes.
 
+## Tech Stack
 
-# 👋 Hi, I'm Baris Aydin
-# 🌟 About Me
-I’m a tech enthusiast with a passion for **Front-End Development** and **Web Technologies**.  I design, code, and constantly ask myself, **“How do these systems really work?”**
+**Frontend**  
+![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Vue](https://skillicons.dev/icons?i=vue) ![React](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Vite](https://skillicons.dev/icons?i=vite)
 
-Currently, I’m deepening my skills in **modern web development** while building strong foundations in software development processes.  
+**Backend & Database**  
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Firebase](https://skillicons.dev/icons?i=firebase) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 
-When I’m not coding, you’ll find me exploring new places 🌍, enjoying good company 👥, or recharging with sports 🏋️‍♂️ — after all, a good developer integrates with life too! 😉
-
----
-
-<div >
-
-
-  
-
-# 🛠 Tech Stack
-
-**Frontend:**  
-![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts)  ![Vue](https://skillicons.dev/icons?i=vue) ![React Native](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Vite](https://skillicons.dev/icons?i=vite)  
-
-**Backend:**  
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Firebase](https://skillicons.dev/icons?i=firebase) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)  
-
-**Other / Tools:**  
+**Tools & Other**  
 ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) ![Postman](https://skillicons.dev/icons?i=postman) ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python)
-</div>
----
 
+## Connect
 
-# 📊 GitHub Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=js-lover&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="full" alt="streak graph"  />
-</div>
-
----
-
-# 📘 Latest Blog Posts
-
-Stay updated with my latest thoughts and tutorials on web development:
-
-- 📝 [My Recent Web Development Learnings on Medium](https://medium.com/@serhatbarisaydin)
-
----
-
-# 📫 Let's Connect
-
-I'm always open to new opportunities, collaborations, and learning. Feel free to reach out to me through any of the channels below:
-
-- 📧 **Email**: [serhatbarisaydin@gmail.com](mailto:serhatbarisaydin@gmail.com)  
-- 🔗 **LinkedIn**: [Barış Aydın](https://www.linkedin.com/in/js-lover)  
-- 💻 **LeetCode**: [js-lover](https://leetcode.com/u/js-lover/)  
-- 🌐 **Portfolio**: [serhatbarisaydin.github.io](https://js-lover.github.io/portfolio-Website/)  
-
-
-
-
+- **Email**: serhatbarisaydin@gmail.com
+- **LinkedIn**: [linkedin.com/in/js-lover](https://www.linkedin.com/in/js-lover)
+- **Portfolio**: [js-lover.github.io/portfolio-Website](https://js-lover.github.io/portfolio-Website)
+- **LeetCode**: [leetcode.com/u/js-lover](https://leetcode.com/u/js-lover/)
+- **Blog**: [medium.com/@serhatbarisaydin](https://medium.com/@serhatbarisaydin)
